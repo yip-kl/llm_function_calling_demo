@@ -18,6 +18,6 @@ This application is built as an extension to [this](https://haystack.deepset.ai/
 3. Run the streamlit application with the below
 ```
 export OPENROUTER_API_KEY = '@REPLACE WITH YOUR API KEY'
-cd sample_applications/01_RAG_plus_DB_search/streamlit
+cd streamlit
 streamlit run app.py
 ```
