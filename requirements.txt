@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+Flask==3.0.2
+Flask_sqlalchemy==3.1.1
+flask_marshmallow==1.2.1
+marshmallow-sqlalchemy==1.0.0
+openai==1.14.3
+haystack-ai==2.0.0
+sentence-transformers==2.6.1
+streamlit==1.32.2
+ipykernel==6.25.2
