@@ -1,6 +1,6 @@
-# RAG + DB search
+# Function Calling demo
 ## What does this application wants to demonstrate
-This application is built as an extension tn [this](https://haystack.deepset.ai/tutorials/40_building_chat_application_with_function_calling)
+This application is built as an extension to [this](https://haystack.deepset.ai/tutorials/40_building_chat_application_with_function_calling)
 1. **Data retrieval**: With both RAG and DB search (via API created from Flask)
 2. **Routing**: Use Function Call for autonomous tool choice & invocation
 3. **UI** Via Streamlit
